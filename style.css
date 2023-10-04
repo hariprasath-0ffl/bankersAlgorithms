@@ -1,0 +1,147 @@
+h1{
+    background-color:#5b0c93;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 2px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size:xx-large;
+    border-radius: 8px;
+}
+table{
+    padding: 3px;
+
+    border-radius: 5px;
+    background-color:5b0c93;
+    border: 0px;
+    margin: 30px;
+}
+
+td{
+    border: 0px ;
+    background-color: rgb(221, 171, 232);
+    border-radius: 3px;
+    text-align: center;
+    padding:3px;
+}
+
+input {
+    border: 0px;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: large;
+}
+
+.alltables{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:center;
+}
+
+th{
+    background-color: 5b0c93;
+    color: white;
+    padding: 6px;
+    border: 0px;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+
+.in-data{
+    background-color: aliceblue;
+    border: 2px solid 5b0c93;
+    border-radius: 5px;
+    padding:6px;
+    margin:4px;
+    width: 75px;
+
+
+}
+
+button{
+    background-color:5b0c93;
+    color: white;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 6px;
+    border-radius: 5px;
+    border: 0px;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+button:hover{
+    box-shadow:0px 8px 15px rgba(0, 0, 0, 0.299);
+    background-color:5b0c93;
+}
+
+#top{
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+}
+#contol,#lab {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+#seq {
+    background-color:5b0c93;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 1pxpx;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    width: auto;
+    margin: auto;
+    display:flex;
+    justify-content: center;
+}
+.ss-label{
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 10px;
+}
+.resoreq{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.ch-out{
+    border:5px solid 5b0c93;
+    background-color: aliceblue;
+    width: 70%;
+    border-radius: 5px;
+    margin: auto;
+    margin-bottom:20px;
+    justify-content: left;
+    
+}
+
+#ch{
+    font-weight: bold;
+    font-style: italic;
+    height: 50px;
+    text-align: center;
+}
+.head{
+	padding: 60px;
+	background-color:#debcf7 ;
+	color: rgb(17, 18, 16);
+	}
+    .full{
+        padding: 20px;
+        width: 100%;
+        background-color:#f0edf2  ;
+        border-radius: 20px;
+        
+    }
