@@ -5,5 +5,5 @@ The Banker's Algorithm is a resource allocation and deadlock avoidance algorithm
 
 - HTML
 - CSS
-  #OUTPUT
+# OUTPUT
 ![image](https://github.com/hariprasath-0ffl/bankersAlgorithms/assets/123928482/3d7ca113-1fce-414d-b64c-c8eaf4004751)
